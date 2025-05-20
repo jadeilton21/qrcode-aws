@@ -18,4 +18,5 @@ ENV AWS_SECRET_ACCESS_KEY=PVVSbkBl8DACxBnOx1i+1FSRuCZvREifzn87VGCW
 ENV AWS_REGION=us-east-1
 ENV AWS_BUCKET_NAME=qrcode-jade
 
+
 ENTRYPOINT ["java", "-jar", "app.jar"]
