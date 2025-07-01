@@ -37,3 +37,8 @@ Build e execute o projeto com Maven ou Gradle.
 
 Acesse a API para gerar QR Codes e obter os links das imagens hospedadas no S3.
 
+
+
+
+![Diagrama](./3feb1ef0-ab2f-4ee5-986b-ef90db02eed2.png)
+
